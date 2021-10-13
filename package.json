@@ -1,7 +1,8 @@
 {
   "name": "@ywalter/tiny",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git@github.com:yangkunxiao/tiny.git"
@@ -25,6 +26,10 @@
   "files": [
     "utils",
     "index",
-    "README"
-  ]
+    "README",
+    "CHANGELOG"
+  ],
+  "devDependencies": {
+    "lodash-es": "^4.17.21"
+  }
 }
