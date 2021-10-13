@@ -1,7 +1,7 @@
 {
   "name": "@ywalter/tiny",
-  "version": "1.0.2",
-  "main": "src/index.js",
+  "version": "1.0.3",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:yangkunxiao/tiny.git"
@@ -23,8 +23,8 @@
     "packages"
   ],
   "files": [
-    "lib",
-    "src",
+    "utils",
+    "index",
     "README"
   ]
 }
